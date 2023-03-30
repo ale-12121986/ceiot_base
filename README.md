@@ -166,7 +166,7 @@ Por algún motivo que ignoro, la instalación no usa todo el espacio disponible,
      git config --global alias.lolg "log --graph --decorate --pretty=format:'%Cgreen %ci %Cblue %h %Cred %d %Creset %s'"
 
 
-## Paso 2: Fork del proyecto
+## Paso 2: Versionamiento del proyecto
 
 ### Generación SSH keys
 
@@ -193,6 +193,16 @@ En la interfaz web de github (tomado de https://docs.github.com/articles/generat
 # Es el botón de arriba a la derecha, "Fork", dejar mismo nombre y opciones, "Create Fork".
 ```
      git clone git@github.com:xxxx/ceiot_base.git
+     
+Si aparece algo como
+```
+The authenticity of host 'github.com (20.201.28.151)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+```
+
+darle "yes", está ok
 
 ### Prueba
 
@@ -322,6 +332,26 @@ En un navegador, probar las siguientes URLs:
 El panorama completo se parece a
 
 ![](./img/all_console.png)
+
+### testing
+
+#### Dependencias
+```
+sudo apt install jq shunit2
+```
+
+En alguna terminal libre
+
+    cd ~/ceiot_base/tools/test
+    ./test.sh
+
+Esperamos
+
+```
+    testPostDevice
+    Ran 1 test.
+    OK
+```
 
 
 
