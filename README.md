@@ -609,3 +609,4 @@ Este entorno no me funcionó y además rompió el de ESP-IDF.
   - [ ] DHT22
   - [ ] BME280
 # ceiot2
+# ceiot2
