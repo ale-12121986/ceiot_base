@@ -29,7 +29,7 @@ Reforzar las medidas de seguridad para prevenir la instalación no autorizada de
 
 * Exploit
 
-Corregir las vulnerabilidades conocidas o desconocidas que el atacante pudo haber aprovechado para obtener acceso.
+Corregir las vulnerabilidades conocidas que el atacante pudo haber aprovechado para obtener acceso.
 
 Implementar medidas de seguridad adicionales para dificultar futuros intentos de explotación.
 
@@ -39,11 +39,13 @@ Identificar y bloquear las fuentes de los ataques de phishing y de ingeniería s
 
 Reforzar la educación en seguridad cibernética para reducir la probabilidad de que el personal sea engañado nuevamente.
 
+Implementa filtros de contenido web para bloquear el acceso a sitios web maliciosos conocidos que puedan distribuir malware.
+
 * Weaponization
   
 Monitorear y bloquear el tráfico malicioso que intenta comunicarse con los servidores de comando y control del atacante.
 
-Implementar soluciones de seguridad para detectar y prevenir malware en tiempo real.
+
 
 * Reconnaissance
   
