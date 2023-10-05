@@ -45,7 +45,7 @@ Implementa filtros de contenido web para bloquear el acceso a sitios web malicio
   
 Monitorear y bloquear el tráfico malicioso que intenta comunicarse con los servidores de comando y control del atacante.
 
-
+Implementar software de seguridad de endpoints para detectar y prevenir la instalación de malware en los sistemas de usuario
 
 * Reconnaissance
   
