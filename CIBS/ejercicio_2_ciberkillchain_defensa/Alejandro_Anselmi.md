@@ -12,6 +12,7 @@ Para cada etapa elegir una sola defensa, la más importante, considerar recursos
 * Actions on Objectives
   
 Identificar y corregir cualquier manipulación de datos en la base de datos, restaurando la integridad de los registros.
+
 Realizar análisis para determinar la extensión del daño y cómo se llevó a cabo la manipulación
 
 * Command & Control
@@ -29,6 +30,7 @@ Reforzar las medidas de seguridad para prevenir la instalación no autorizada de
 * Exploit
 
 Corregir las vulnerabilidades conocidas o desconocidas que el atacante pudo haber aprovechado para obtener acceso.
+
 Implementar medidas de seguridad adicionales para dificultar futuros intentos de explotación.
 
 * Delivery
