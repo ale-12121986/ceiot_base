@@ -9,7 +9,8 @@ Desarrollar la defensa en función del ataque planteado en orden inverso. No es 
 Para cada etapa elegir una sola defensa, la más importante, considerar recursos limitados.
 
 ## Resolución
-* Actions on Objectives 
+* Actions on Objectives
+  
 Identificar y corregir cualquier manipulación de datos en la base de datos, restaurando la integridad de los registros.
 Realizar análisis para determinar la extensión del daño y cómo se llevó a cabo la manipulación
 
@@ -29,13 +30,16 @@ Corregir las vulnerabilidades conocidas o desconocidas que el atacante pudo habe
 Implementar medidas de seguridad adicionales para dificultar futuros intentos de explotación.
 
 * Delivery
+
 Identificar y bloquear las fuentes de los ataques de phishing y de ingeniería social utilizados para la entrega del malware.
 Reforzar la educación en seguridad cibernética para reducir la probabilidad de que el personal sea engañado nuevamente.
 
 * Weaponization
+  
 Monitorear y bloquear el tráfico malicioso que intenta comunicarse con los servidores de comando y control del atacante.
 Implementar soluciones de seguridad para detectar y prevenir malware en tiempo real.
 
 * Reconnaissance
+  
 Implementar controles más estrictos de acceso y autenticación para proteger la información confidencial.
 Restringir el acceso a información de contacto sensible de los coordinadores.
