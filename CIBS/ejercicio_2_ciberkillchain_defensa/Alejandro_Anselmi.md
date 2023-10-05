@@ -16,8 +16,9 @@ Realizar análisis para determinar la extensión del daño y cómo se llevó a c
 
 * Command & Control
 
--Desactivar las comunicaciones encubiertas con los dispositivos comprometidos para cortar la conexión del atacante.
--Identificar los dispositivos comprometidos y aislarlos de la red para prevenir futuras comunicaciones.
+Desactivar las comunicaciones encubiertas con los dispositivos comprometidos para cortar la conexión del atacante.
+
+Identificar los dispositivos comprometidos y aislarlos de la red para prevenir futuras comunicaciones.
 
 * Installation
 
