@@ -23,6 +23,7 @@ Identificar los dispositivos comprometidos y aislarlos de la red para prevenir f
 * Installation
 
 Eliminar cualquier malware presente en los dispositivos comprometidos.
+
 Reforzar las medidas de seguridad para prevenir la instalación no autorizada de software y firmware.
 
 * Exploit
@@ -33,14 +34,17 @@ Implementar medidas de seguridad adicionales para dificultar futuros intentos de
 * Delivery
 
 Identificar y bloquear las fuentes de los ataques de phishing y de ingeniería social utilizados para la entrega del malware.
+
 Reforzar la educación en seguridad cibernética para reducir la probabilidad de que el personal sea engañado nuevamente.
 
 * Weaponization
   
 Monitorear y bloquear el tráfico malicioso que intenta comunicarse con los servidores de comando y control del atacante.
+
 Implementar soluciones de seguridad para detectar y prevenir malware en tiempo real.
 
 * Reconnaissance
   
 Implementar controles más estrictos de acceso y autenticación para proteger la información confidencial.
+
 Restringir el acceso a información de contacto sensible de los coordinadores.
