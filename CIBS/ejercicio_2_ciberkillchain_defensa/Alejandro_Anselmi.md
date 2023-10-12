@@ -11,19 +11,19 @@ Para cada etapa elegir una sola defensa, la más importante, considerar recursos
 ## Resolución
 * Actions on Objectives
   
-Identificar y corregir cualquier manipulación de datos en la base de datos, restaurando la integridad de los registros.
+Identificar y corregir cualquier manipulación de datos en la base de datos, restaurando la integridad de los registros.Asi restauramos la integridad de los registros afectados
 
 Realizar análisis para determinar la extensión del daño y cómo se llevó a cabo la manipulación
 
 * Command & Control
 
-Desactivar las comunicaciones encubiertas con los dispositivos comprometidos para cortar la conexión del atacante.
+Desactivar las comunicaciones encubiertas. Al cortar la conexión del atacante limitamos la capacidad para controlar sistemas comprometidos.
 
-Identificar los dispositivos comprometidos y aislarlos de la red para prevenir futuras comunicaciones.
+Identificar los dispositivos comprometidos y aislarlos de la red, asi evitamos que el atacante mantenga el acceso.
 
 * Installation
 
-Eliminar cualquier malware presente en los dispositivos comprometidos.
+Eliminar cualquier malware presente en los dispositivos comprometidos. Esto restaura la integridad de los sistemas afectados
 
 Reforzar las medidas de seguridad para prevenir la instalación no autorizada de software y firmware.
 
@@ -43,7 +43,7 @@ Implementa filtros de contenido web para bloquear el acceso a sitios web malicio
 
 * Weaponization
   
-Monitorear y bloquear el tráfico malicioso que intenta comunicarse con los servidores de comando y control del atacante.
+Monitorear y bloquear el tráfico malicioso que intenta comunicarse con los servidores de comando y control del atacante. Esto corta la comunicación entre dispositivos comprometidos y el atacante, dificultando la operación del atacante
 
 Implementar software de seguridad de endpoints para detectar y prevenir la instalación de malware en los sistemas de usuario
 
